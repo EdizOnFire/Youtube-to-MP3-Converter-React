@@ -92,7 +92,6 @@ body {
     align-items: center;
     flex-direction: column;
     gap: 10px;
-    color: black;
 }
 
 #download-btn {
